@@ -12,8 +12,8 @@ Apple CMS compression package package download! Easy to use for beginners! The l
 # 下载直链
 全部打包
 
-https://github.com/maccmspro/download/archive/main.zip
+https://github.com/maccmspro/download/archive/master.zip
 
 第三方CDN加速下载
 
-https://cdn.jsdelivr.net/gh/maccmspro/download@main/
+https://cdn.jsdelivr.net/gh/maccmspro/download/
